@@ -1,17 +1,21 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Winter',de,Winter,#4287f5,#315fa8,1,0.5614125
-'Herbst',de,Herbst,#9e3215,#9e3215,1,0.555863463125
-'Schnee',de,Winter,#4287f5,#638ed4,1,0.5441805312499999
-'Hochwasser',de,Winter,#4287f5,#022f78,1,0.5125670175
-'Weinlese',de,Herbst,#9e3215,#b55035,1,0.4986510416666665
-'Frühling',de,Frühling,#679e2c,#679e2c,1,0.4794875
-'Sommer',de,Sommer,#a89216,#a89216,1,0.4786575
-'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.4705857873661989
-'Dürre',de,Sommer,#a89216,#bfba22,1,0.4703845937499998
-'Aussaat',de,Frühling,#679e2c,#7db344,1,0.4617094631672111
-'Ernte',de,Herbst,#9e3215,#d64118,1,0.4539151550156249
-'Gewitter',de,Sommer,#a89216,#c4b03b,2,0.4228879266406248
-'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.37773410268877505
-'Blüte',de,Frühling,#679e2c,#61b00c,1,0.3705460201285585
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.2844000461382296
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.2615824620417953
+'Inflation',de,Wohlstand,#cc0018,#cc0018,1,1
+'Armut',de,Wohlstand,#f6001d,#cc0018,1,1
+'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,1,1
+'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,1
+'Geld sparen',de,Wohlstadn,#f5001d,#cc0018,1,1
+'Gas',de,Energie,#29c014,#29c014,1,1
+'Solar',de,Energie,#32ea18,#29c014,1,1
+'Windkraft',de,Energie,#20950f,#29c014,1,1
+'Energie sparen',de,Energie,#176a0b,#29c014,1,1
+'Energiekosten',de,Energie,#0e3f07,#29c014,1,1
+'Putin',de,Krieg,#8d8d8d,#8d8d8d,1,1
+'Russland',de,Krieg,#b7b7b7,#8d8d8d,1,1
+'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,1,1
+'Krieg',de,Krieg,#616161,#8d8d8d,1,1
+'Kämpfe',de,Krieg,#363636,#8d8d8d,1,1
+'Existenzängste',de,Angst,#f59e09,#f59e09,1,1
+'Angst',de,Angst,#ca8307,#f59e09,1,1
+'Gefährdung',de,Angst,#754c04,#f59e09,1,1
+'Risiko',de,Angst,#aa6d00,#9f6805,1,1
+'Bedrohung',de,Angst,#ffa400,#f59e09,1,1
