@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kämpfe',de,Krieg,#363636,#8d8d8d,1,1.0
 'Existenzängste',de,Angst,#f59e09,#f59e09,1,1.0
 'Angst',de,Angst,#ca8307,#f59e09,1,1.0
-'Gefährdung',de,Angst,#754c04,#f59e09,1,1.0
 'Risiko',de,Angst,#aa6d00,#9f6805,1,1.0
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.964106264090909
+'Gefährdung',de,Angst,#754c04,#f59e09,2,0.8913189463636363
