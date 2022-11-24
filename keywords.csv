@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kämpfe',de,Krieg,#363636,#8d8d8d,5,0.8794978318545456
 'Krieg',de,Krieg,#616161,#8d8d8d,2,0.8778087927272727
 'Risiko',de,Angst,#aa6d00,#9f6805,2,0.85501507
-'Gefährdung',de,Angst,#754c04,#f59e09,3,0.7762127930454544
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.7224999999999999
+'Gefährdung',de,Angst,#754c04,#f59e09,3,0.6783725777249999
