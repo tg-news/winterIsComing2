@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Wohlstand,#f6001d,#cc0018,1,1.0
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,1,1.0
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,1.0
-'Geld sparen',de,Wohlstadn,#f5001d,#cc0018,1,1.0
+'Geld sparen',de,Wohlstand,#f5001d,#cc0018,1,1.0
 'Gas',de,Energie,#29c014,#29c014,1,1.0
 'Solar',de,Energie,#32ea18,#29c014,1,1.0
 'Windkraft',de,Energie,#20950f,#29c014,1,1.0
