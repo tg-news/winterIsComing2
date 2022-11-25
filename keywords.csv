@@ -9,13 +9,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.8835969785681818
 'Kämpfe',de,Krieg,#363636,#8d8d8d,5,0.8794978318545456
 'Gas',de,Energie,#29c014,#29c014,4,0.8790538445227274
-'Krieg',de,Krieg,#616161,#8d8d8d,2,0.8778087927272727
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.8653391291363636
 'Russland',de,Krieg,#b7b7b7,#8d8d8d,2,0.855096235
 'Risiko',de,Angst,#aa6d00,#9f6805,2,0.85501507
 'Angst',de,Angst,#ca8307,#f59e09,3,0.8333567825909092
 'Solar',de,Energie,#32ea18,#29c014,3,0.8028076426363636
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.8014691102727273
+'Krieg',de,Krieg,#616161,#8d8d8d,2,0.7512221438181819
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.6783725777249999
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,4,0.6298167223761931
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.5220062499999999
