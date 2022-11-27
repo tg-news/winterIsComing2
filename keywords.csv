@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.8448671154318181
 'Angst',de,Angst,#ca8307,#f59e09,3,0.8333567825909092
 'Solar',de,Energie,#32ea18,#29c014,3,0.8028076426363636
-'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.8014691102727273
 'Windkraft',de,Energie,#20950f,#29c014,4,0.7661074283886363
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.7541481584022727
 'Krieg',de,Krieg,#616161,#8d8d8d,2,0.7512221438181819
+'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.7453112078227273
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.7363226590454545
 'Existenzängste',de,Angst,#f59e09,#f59e09,2,0.6563782502236111
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,4,0.5857684394743097
