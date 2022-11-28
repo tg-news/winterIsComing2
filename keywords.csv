@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Krieg,#616161,#8d8d8d,2,0.7512221438181819
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.7453112078227273
 'Solar',de,Energie,#32ea18,#29c014,4,0.7100719889681818
-'Existenzängste',de,Angst,#f59e09,#f59e09,2,0.6563782502236111
 'Risiko',de,Angst,#aa6d00,#9f6805,4,0.6308899751886362
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,4,0.5857684394743097
+'Existenzängste',de,Angst,#f59e09,#f59e09,2,0.5618219026900694
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.4437053124999999
 'Gefährdung',de,Angst,#754c04,#f59e09,4,0.437184061762411
