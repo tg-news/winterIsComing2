@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#29c014,#29c014,3,0.6808950408649308
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.6805186442274455
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.6801313360321222
-'Energie sparen',de,Energie,#176a0b,#29c014,3,0.6783379929554744
 'Angst',de,Angst,#ca8307,#f59e09,3,0.6719381339688693
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.6566675248311363
+'Energie sparen',de,Energie,#176a0b,#29c014,3,0.6497319521939714
 'Windkraft',de,Energie,#20950f,#29c014,3,0.6363127071471533
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.597478892354733
 'Solar',de,Energie,#32ea18,#29c014,3,0.5831092329386023
