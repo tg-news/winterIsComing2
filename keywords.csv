@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windkraft',de,Energie,#20950f,#29c014,3,0.5730914833478076
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.5676832506519204
 'Krieg',de,Krieg,#616161,#8d8d8d,2,0.5605521518177272
-'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.5574171980986178
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.5321589451241174
+'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.519680434292916
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.4795152911763592
 'Angst',de,Angst,#ca8307,#f59e09,3,0.4733971636300301
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.4354966013115515
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.3311063271548405
 'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.1691719609090786
-'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.12146184388271478
+'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.1214618438827147
