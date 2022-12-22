@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#29c014,#29c014,3,0.5637640571764652
 'Krieg',de,Krieg,#616161,#8d8d8d,2,0.5605521518177272
 'Bedrohung',de,Angst,#ffa400,#f59e09,2,0.5392766469970215
-'Solar',de,Energie,#32ea18,#29c014,3,0.5233286107250846
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.520606553727094
+'Solar',de,Energie,#32ea18,#29c014,3,0.49524239957086735
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.4891116251736816
 'Windkraft',de,Energie,#20950f,#29c014,3,0.4876905220984723
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.4830581305126149
