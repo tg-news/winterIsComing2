@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.3761757969703231
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.3744053644575144
 'Gas',de,Energie,#29c014,#29c014,3,0.367286789619588
-'Solar',de,Energie,#32ea18,#29c014,3,0.36084073320031873
+'Solar',de,Energie,#32ea18,#29c014,3,0.3608407332003187
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.3463531523090141
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.3358472418724668
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.3142941592632833
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1096210525033418
 'Existenzängste',de,Angst,#f59e09,#f59e09,2,0.0956141943904962
-'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.0247159340727538
+'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.02100854396184073
