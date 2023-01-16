@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windkraft',de,Energie,#20950f,#29c014,3,0.4027338648348605
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.4014428734042626
 'Angst',de,Angst,#ca8307,#f59e09,3,0.3936642091863686
+'Gas',de,Energie,#29c014,#29c014,3,0.385370754358468
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.3744053644575144
-'Gas',de,Energie,#29c014,#29c014,3,0.367286789619588
 'Solar',de,Energie,#32ea18,#29c014,3,0.3608407332003187
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.3540991079214017
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.3247470374247746
