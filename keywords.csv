@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.3836204397313553
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.3744053644575144
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.3576230154436705
-'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.35581378875096054
+'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.3558137887509605
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.3540991079214017
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.3512166970710391
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.3219423577201493
@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solar',de,Energie,#32ea18,#29c014,3,0.272212238065282
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.2271756043970318
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.099587400453842
-'Existenzängste',de,Angst,#f59e09,#f59e09,2,0.0551251656740887
+'Existenzängste',de,Angst,#f59e09,#f59e09,2,0.049706675822975395
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.0129018720605653
