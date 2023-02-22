@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angst',de,Angst,#ca8307,#f59e09,3,0.3651636070506694
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.3633183821680235
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.3589029411862379
-'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.3585436806841904
 'Gas',de,Energie,#29c014,#29c014,3,0.3556121377285385
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.3470208091664062
+'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.3460831299451982
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.3316558602083371
 'Windkraft',de,Energie,#20950f,#29c014,3,0.3235482156889847
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.3186543993595763
