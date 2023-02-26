@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.2918423586518127
 'Solar',de,Energie,#32ea18,#29c014,3,0.272700248719126
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.2034189012355262
-'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1699102518510905
+'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1675722122552451
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1272040567224786
 'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0224901761415254
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.0029882922080045
