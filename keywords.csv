@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.3078020115387518
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.3076339462738217
 'Solar',de,Energie,#32ea18,#29c014,3,0.3046022338586593
-'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.29638055366741906
+'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.296380553667419
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.2896591320027177
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.2884777883741491
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.2633014040577527
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.20059797877747
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1620683603001554
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1285042355904087
-'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0281819659166802
+'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.03744332756763971
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.0005883182484466
