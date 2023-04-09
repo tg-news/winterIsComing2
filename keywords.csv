@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.3595572640003288
 'Solar',de,Energie,#32ea18,#29c014,3,0.3321215428877672
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.3316678144101088
-'Windkraft',de,Energie,#20950f,#29c014,3,0.3267748398682084
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.323339118649457
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.3139121726094754
 'Gas',de,Energie,#29c014,#29c014,3,0.3122728324414933
+'Windkraft',de,Energie,#20950f,#29c014,3,0.3008944070697953
 'Energie sparen',de,Energie,#176a0b,#29c014,1,0.2501621501180267
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1994938996817263
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1901576579567693
