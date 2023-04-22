@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.3803156439439745
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.3680255708873943
 'Angst',de,Angst,#ca8307,#f59e09,3,0.3528850717795466
-'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.3463346540861013
+'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.34939538597318615
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.341422546794047
 'Solar',de,Energie,#32ea18,#29c014,3,0.3370345645941318
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.3352791720290116
@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1901576579567693
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1727598640069481
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1062671449367257
-'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.024619467553684438
+'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0246194675536844
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.0001158248047254
