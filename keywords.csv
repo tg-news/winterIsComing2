@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.2275549855343779
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1886926600029281
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1607005592473813
-'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1433405596322255
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1348094032465183
+'Risiko',de,Angst,#aa6d00,#9f6805,3,0.12684343068739168
 'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0296533227765661
-'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,1.1903276905108561e-05
+'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,1.190327690510856e-05
