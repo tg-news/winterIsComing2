@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.3065090949883498
 'Solar',de,Energie,#32ea18,#29c014,3,0.2966113082873456
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.260685867196683
-'Energie sparen',de,Energie,#176a0b,#29c014,3,0.2275549855343779
-'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.21534935100248886
+'Energie sparen',de,Energie,#176a0b,#29c014,3,0.25746687679513025
+'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.2153493510024888
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1673171051016874
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1348094032465183
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1268434306873916
