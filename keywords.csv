@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solar',de,Energie,#32ea18,#29c014,3,0.3206060889616416
 'Gas',de,Energie,#29c014,#29c014,3,0.3200771538254512
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.314325860939807
-'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.31233151002610765
+'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.3123315100261076
 'Windkraft',de,Energie,#20950f,#29c014,3,0.3045986345404927
-'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2975594756951997
+'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.28064476706819247
 'Angst',de,Angst,#ca8307,#f59e09,3,0.2783043041028041
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2673567720689499
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2438881889751174
