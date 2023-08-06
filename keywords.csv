@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Krieg',de,Krieg,#616161,#8d8d8d,3,0.4916302487807908
+'Krieg',de,Krieg,#616161,#8d8d8d,3,0.5001986037363995
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.4575283544024822
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.4332835428696671
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.4331582315467659
@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1210605305009821
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1203496492845812
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1057058400417388
-'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.045238134378801156
+'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0452381343788011
