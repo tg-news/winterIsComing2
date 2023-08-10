@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2651868611121013
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.2411168504862563
 'Solar',de,Energie,#32ea18,#29c014,3,0.2099579292046065
-'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.17623996101344405
-'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1169592950167438
+'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.176239961013444
+'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.11347288485514133
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.107297121891894
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1057058400417388
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.0924885422670834
