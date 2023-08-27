@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solar',de,Energie,#32ea18,#29c014,3,0.2457684786773243
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.2261005044535928
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1614878083710176
-'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1040072102446181
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1010291082786395
+'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.09337178870792538
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.0727170077226376
-'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.05718543960727255
+'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.0571854396072725
 'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0346994425402535
