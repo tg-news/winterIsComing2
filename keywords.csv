@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.3092915281926071
 'Angst',de,Angst,#ca8307,#f59e09,3,0.3079635443119565
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.2960862923921351
+'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.28235890849440226
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2664828363980338
-'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2621826987634679
 'Solar',de,Energie,#32ea18,#29c014,3,0.2547681477848165
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2499793543812707
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.2288101330216213
