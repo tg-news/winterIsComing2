@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.263987392417815
 'Windkraft',de,Energie,#20950f,#29c014,3,0.2621603392241045
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2617195179115918
-'Energie sparen',de,Energie,#176a0b,#29c014,3,0.2449161664812426
 'Solar',de,Energie,#32ea18,#29c014,3,0.230935927410623
+'Energie sparen',de,Energie,#176a0b,#29c014,3,0.22222485559996527
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.2032556820670067
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1702433844744789
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1326531460419677
