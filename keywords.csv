@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.3393616633853232
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.328442881451943
+'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.32566085149971163
 'Angst',de,Angst,#ca8307,#f59e09,3,0.3180573374827935
-'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.2916591279675752
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2892161030226886
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.2782229436122339
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2745675949821977
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2617195179115918
 'Solar',de,Energie,#32ea18,#29c014,3,0.230935927410623
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1889800189979577
-'Energie sparen',de,Energie,#176a0b,#29c014,3,0.18353961297601043
+'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1835396129760104
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1776770347479472
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1460383469661491
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1050988450153216
