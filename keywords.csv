@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.263987392417815
 'Windkraft',de,Energie,#20950f,#29c014,3,0.2621603392241045
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2617195179115918
-'Solar',de,Energie,#32ea18,#29c014,3,0.230935927410623
+'Solar',de,Energie,#32ea18,#29c014,3,0.22397794102630228
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1889800189979577
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1835396129760104
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1776770347479472
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1460383469661491
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1050988450153216
-'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.037703216851112865
+'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0377032168511128
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.0009864995277922
