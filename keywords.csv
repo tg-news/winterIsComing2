@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.277960881564729
 'Windkraft',de,Energie,#20950f,#29c014,3,0.2695154874612304
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2557675303110734
-'Angst',de,Angst,#ca8307,#f59e09,3,0.23941576458161906
 'Gas',de,Energie,#29c014,#29c014,3,0.238935509947482
+'Angst',de,Angst,#ca8307,#f59e09,3,0.23577630216710344
 'Solar',de,Energie,#32ea18,#29c014,3,0.2239779410263022
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2119765740083632
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2111783466993619
