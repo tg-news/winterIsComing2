@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#29c014,#29c014,3,0.2308010461826324
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2302880391786204
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2208457560580939
-'Solar',de,Energie,#32ea18,#29c014,3,0.2169784740395959
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2166397852892242
+'Solar',de,Energie,#32ea18,#29c014,3,0.20302201157002012
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1742903727973941
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1332183365854161
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1047969349595501
