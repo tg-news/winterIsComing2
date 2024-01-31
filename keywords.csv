@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.2030100230664761
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.199886699643109
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.1885500740010502
-'Angst',de,Angst,#ca8307,#f59e09,3,0.1822617354058938
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1817770424720157
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1798111153307513
+'Angst',de,Angst,#ca8307,#f59e09,3,0.1690088341859188
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1323383828146095
-'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.12319778331892295
+'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1231977833189229
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.119840586893487
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.0978864672419827
 'Existenzängste',de,Angst,#f59e09,#f59e09,2,0.0258305740587522
