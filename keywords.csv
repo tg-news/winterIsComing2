@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.1453833888482151
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1250343778692415
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.110976673825167
-'Gefährdung',de,Angst,#754c04,#f59e09,3,0.0671737279782202
-'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.04247046949498575
+'Gefährdung',de,Angst,#754c04,#f59e09,3,0.07568916241785081
+'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0424704694949857
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,2.7625697208548603e-05
