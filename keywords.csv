@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.2892204834739343
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2296028933863494
-'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.2225016814696023
 'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.2206598897877488
+'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.21232184743098015
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2118599830710721
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2054682826256096
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2008961158830617
