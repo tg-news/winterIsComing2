@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.1975996920380829
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1848297875915115
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1741580347478314
-'Angst',de,Angst,#ca8307,#f59e09,3,0.1690088341859188
 'Windkraft',de,Energie,#20950f,#29c014,3,0.1669124628415432
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1598974436744081
+'Angst',de,Angst,#ca8307,#f59e09,3,0.1577459831489401
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1532005945430391
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1435486145497256
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1190790317560092
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1143893424796211
-'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.03165700677572482
+'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0316570067757248
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,3.9295277130558e-06
