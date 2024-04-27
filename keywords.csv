@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windkraft',de,Energie,#20950f,#29c014,3,0.1650096015971299
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1598974436744081
 'Angst',de,Angst,#ca8307,#f59e09,3,0.1577459831489401
-'Energie sparen',de,Energie,#176a0b,#29c014,3,0.15039508259192566
-'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1360606364581758
+'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1503950825919256
+'Gefährdung',de,Angst,#754c04,#f59e09,3,0.13424130962581304
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1190790317560092
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1009189625324353
 'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0267575758954611
