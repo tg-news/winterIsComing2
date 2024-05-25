@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angst',de,Angst,#ca8307,#f59e09,3,0.2415100318630162
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2311841880197251
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.2232283987053339
-'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2206574218076956
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.2203109398453825
 'Solar',de,Energie,#32ea18,#29c014,3,0.21317711004404
+'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.21070900171835943
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.2080506071499389
 'Gas',de,Energie,#29c014,#29c014,3,0.2051827094686957
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1815097988729416
