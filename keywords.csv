@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solar',de,Energie,#32ea18,#29c014,3,0.2270640144465249
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2218475377317088
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2217115842042618
+'Gas',de,Energie,#29c014,#29c014,3,0.22152638168204172
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2127143735528853
-'Gas',de,Energie,#29c014,#29c014,3,0.2066463303211186
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.2045230788047208
 'Windkraft',de,Energie,#20950f,#29c014,3,0.1980440487964703
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1355144537235643
