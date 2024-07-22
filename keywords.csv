@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2278238740911725
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2218475377317088
 'Solar',de,Energie,#32ea18,#29c014,3,0.2210158124250878
-'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.21225534402559587
-'Angst',de,Angst,#ca8307,#f59e09,3,0.2120577548068768
+'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2122553440255958
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2074692346094605
+'Angst',de,Angst,#ca8307,#f59e09,3,0.19888300522220892
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1733485284764443
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1714013096902673
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1178289109821323
