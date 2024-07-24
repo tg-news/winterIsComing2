@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Krieg',de,Krieg,#616161,#8d8d8d,3,0.3033132783055194
+'Krieg',de,Krieg,#616161,#8d8d8d,3,0.3264897551960551
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.3029185768585605
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2817539902443282
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.2769783915026642
@@ -17,5 +17,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1178289109821323
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1047369299315553
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.0985479221019042
-'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.01429502132276966
+'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0142950213227696
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,4.15021194455249e-08
