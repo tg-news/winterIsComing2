@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Krieg',de,Krieg,#616161,#8d8d8d,3,0.32968832872568626
+'Krieg',de,Krieg,#616161,#8d8d8d,3,0.3296883287256862
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.3028820274928629
 'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.2907602564688562
 'Angst',de,Angst,#ca8307,#f59e09,3,0.278338017322998
@@ -18,4 +18,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.0985479221019042
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.098302995532811
 'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0339094054573457
-'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,1.3304628609347025e-08
+'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,1.1308934317944971e-08
