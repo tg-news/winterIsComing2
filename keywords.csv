@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.4027739502100473
-'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.3225455188897362
+'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.39279236969263936
 'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.3074589084392834
 'Angst',de,Angst,#ca8307,#f59e09,3,0.2745498015442124
 'Gas',de,Energie,#29c014,#29c014,3,0.2711619140708004
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2453905653717811
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.2441025422636673
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2298870434355888
-'Solar',de,Energie,#32ea18,#29c014,3,0.20917033955654382
+'Solar',de,Energie,#32ea18,#29c014,3,0.2091703395565438
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2085790766907687
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1915531891458181
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1726416686585679
