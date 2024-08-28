@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1608108224506917
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1450758198582067
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1338216510603941
-'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1269984069104584
+'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.13109255405570783
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.0910767460649401
-'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.022151837525265766
+'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0221518375252657
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,2.619340832439732e-09
