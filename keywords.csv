@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.2130186699290495
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2095740859503947
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.1810112873226687
-'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1756830041185523
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1650594619078535
+'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.16338395759167856
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1120390802908646
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.098349611561846
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.0965284579691767
