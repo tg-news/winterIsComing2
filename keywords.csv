@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2441069235213577
 'Windkraft',de,Energie,#20950f,#29c014,3,0.2336864442209904
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2328679525868177
+'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2088361347100774
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1991038810430585
 'Solar',de,Energie,#32ea18,#29c014,3,0.1923647461005833
-'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.19173028682469
 'Angst',de,Angst,#ca8307,#f59e09,3,0.1885428666999726
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1812443129254368
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.1738440496819748
