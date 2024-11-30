@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2086193826291245
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1991038810430585
 'Solar',de,Energie,#32ea18,#29c014,3,0.1876947531031259
+'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.18328604178111788
 'Angst',de,Angst,#ca8307,#f59e09,3,0.1743495657858858
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1726804646229849
-'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.16166131279062
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1303752594777263
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1001687239255952
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.0772023999247129
-'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.03830695560640212
+'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0383069556064021
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,0.0003859135908446
