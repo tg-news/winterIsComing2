@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.4794427324062494
+'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.35413420118346056
 'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.2615827995124833
-'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.2610200340126274
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.2553565369586437
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2508076965937429
 'Gas',de,Energie,#29c014,#29c014,3,0.2491953717570289
