@@ -7,14 +7,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gas',de,Energie,#29c014,#29c014,3,0.2491953717570289
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.23817508884619
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2287389584320542
+'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.22792251995811125
 'Windkraft',de,Energie,#20950f,#29c014,3,0.2264089018587564
-'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2088361347100774
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.200477868416574
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1971206768775865
 'Solar',de,Energie,#32ea18,#29c014,3,0.1876947531031259
 'Angst',de,Angst,#ca8307,#f59e09,3,0.1743495657858858
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1726804646229849
-'Energie sparen',de,Energie,#176a0b,#29c014,3,0.12940923419243097
+'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1294092341924309
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1082777985185741
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.0688262133092414
 'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0383069556064021
