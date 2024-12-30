@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2837080378179359
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.2792031397085028
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.2510564029366062
-'Windkraft',de,Energie,#20950f,#29c014,3,0.2406976662974969
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2357466410308824
 'Solar',de,Energie,#32ea18,#29c014,3,0.2236045790153662
+'Windkraft',de,Energie,#20950f,#29c014,3,0.2140907358983269
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.200477868416574
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1972919780674541
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1740584199559087
