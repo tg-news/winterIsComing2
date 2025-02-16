@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.2112962652864222
 'Solar',de,Energie,#32ea18,#29c014,3,0.2091068552466617
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1910638725776033
-'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1702077853351124
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1681521306165977
 'Angst',de,Angst,#ca8307,#f59e09,3,0.166307819242277
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1650947258355554
+'Gefährdung',de,Angst,#754c04,#f59e09,3,0.15872333162575464
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1451602928902534
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.06678308663554
-'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.01866692595782622
+'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0186669259578262
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,2.531737335271153e-05
