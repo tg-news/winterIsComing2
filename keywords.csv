@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.2112962652864222
 'Solar',de,Energie,#32ea18,#29c014,3,0.2091068552466617
 'Windkraft',de,Energie,#20950f,#29c014,3,0.2083015913913657
-'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.1964956435658271
 'Gas',de,Energie,#29c014,#29c014,3,0.196039567293906
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1910638725776033
+'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.17205060203095304
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1650947258355554
 'Angst',de,Angst,#ca8307,#f59e09,3,0.160002894992299
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1587233316257546
