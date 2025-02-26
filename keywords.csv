@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.29972502383573235
+'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.2997250238357323
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2295995097872452
 'Windkraft',de,Energie,#20950f,#29c014,3,0.2139785488484434
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2128148705314108
@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.2112962652864222
 'Solar',de,Energie,#32ea18,#29c014,3,0.2091068552466617
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.2063726180807843
+'Gefährdung',de,Angst,#754c04,#f59e09,3,0.20350685051825504
 'Gas',de,Energie,#29c014,#29c014,3,0.196039567293906
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1910638725776033
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1753995403487529
@@ -14,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1650947258355554
 'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.1603594608172191
 'Angst',de,Angst,#ca8307,#f59e09,3,0.160002894992299
-'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1587233316257546
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1345540542341282
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.0658446320032685
 'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0175170520641522
