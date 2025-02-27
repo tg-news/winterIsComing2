@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.2112962652864222
 'Solar',de,Energie,#32ea18,#29c014,3,0.2091068552466617
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.2063726180807843
-'Gefährdung',de,Angst,#754c04,#f59e09,3,0.203506850518255
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.1994847035880628
 'Gas',de,Energie,#29c014,#29c014,3,0.196039567293906
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1910638725776033
+'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1824821274859713
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1753995403487529
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1729053309768444
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1650947258355554
