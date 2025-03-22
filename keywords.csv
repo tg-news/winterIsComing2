@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solar',de,Energie,#32ea18,#29c014,3,0.2145126987778442
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2019218668333927
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.1994995198392411
+'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.19611339734971567
 'Gas',de,Energie,#29c014,#29c014,3,0.1897416025236022
 'Angst',de,Angst,#ca8307,#f59e09,3,0.1826629519076001
-'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1820924658659757
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1803951176729383
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1803676263462233
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1778792284067991
