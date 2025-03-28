@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1979442334442372
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1961133973497156
 'Gas',de,Energie,#29c014,#29c014,3,0.1897416025236022
-'Angst',de,Angst,#ca8307,#f59e09,3,0.1826629519076001
-'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.18114539135383834
+'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.1811453913538383
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1803951176729383
+'Angst',de,Angst,#ca8307,#f59e09,3,0.1602552241214601
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1564823386328254
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1501430007270635
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1328298115480787
