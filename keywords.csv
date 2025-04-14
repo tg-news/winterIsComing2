@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2228176951914585
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2216723077472582
 'Gas',de,Energie,#29c014,#29c014,3,0.2155572721539658
-'Solar',de,Energie,#32ea18,#29c014,3,0.2081742749301253
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.2033810177998249
 'Angst',de,Angst,#ca8307,#f59e09,3,0.1986669355641185
+'Solar',de,Energie,#32ea18,#29c014,3,0.18644706823606105
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.1817134269929425
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1572920255191909
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1508554466665761
