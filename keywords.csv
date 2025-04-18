@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solar',de,Energie,#32ea18,#29c014,3,0.186447068236061
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.1821389206712738
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1568440648731304
-'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1383248684571214
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1351902204133348
+'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1225294981885532
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1220244985802375
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.0804536638533948
 'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0359094493748526
