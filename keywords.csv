@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.3747255453306826
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.3366480883477072
-'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.3280191312805685
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.3173331140540479
+'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.3019984947703014
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2443590809127397
 'Windkraft',de,Energie,#20950f,#29c014,3,0.2305201354448105
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2267144452300017
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2216723077472582
 'Gas',de,Energie,#29c014,#29c014,3,0.2155572721539658
 'Angst',de,Angst,#ca8307,#f59e09,3,0.1986669355641185
-'Risiko',de,Angst,#aa6d00,#9f6805,3,0.19604318331166934
+'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1960431833116693
 'Solar',de,Energie,#32ea18,#29c014,3,0.186447068236061
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.1821389206712738
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1568440648731304
