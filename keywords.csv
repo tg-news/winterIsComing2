@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.2889727028274834
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2443590809127397
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2388504570397149
-'Angst',de,Angst,#ca8307,#f59e09,3,0.2329544093204097
 'Windkraft',de,Energie,#20950f,#29c014,3,0.2305201354448105
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2267144452300017
 'Gas',de,Energie,#29c014,#29c014,3,0.2155572721539658
+'Angst',de,Angst,#ca8307,#f59e09,3,0.21209831201325732
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1960431833116693
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.1821389206712738
 'Solar',de,Energie,#32ea18,#29c014,3,0.1770698666370155
