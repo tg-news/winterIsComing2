@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.3011014624908748
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2626559158592582
 'Angst',de,Angst,#ca8307,#f59e09,3,0.2517805206113362
+'Windkraft',de,Energie,#20950f,#29c014,3,0.24528946970772464
 'Gas',de,Energie,#29c014,#29c014,3,0.2446165399375647
-'Windkraft',de,Energie,#20950f,#29c014,3,0.2399695745224568
 'Solar',de,Energie,#32ea18,#29c014,3,0.2380338603695045
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1973674590108028
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.1939740887396976
