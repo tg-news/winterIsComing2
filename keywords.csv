@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.2984914441222009
 'Gas',de,Energie,#29c014,#29c014,3,0.2810725421287481
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2626559158592582
+'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.25799166633703946
 'Angst',de,Angst,#ca8307,#f59e09,3,0.2517805206113362
-'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2495527710917042
 'Windkraft',de,Energie,#20950f,#29c014,3,0.2452894697077246
 'Solar',de,Energie,#32ea18,#29c014,3,0.2380338603695045
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2038234568812928
