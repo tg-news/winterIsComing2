@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.2818603918474212
 'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.2670052950087709
-'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2340882027616248
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2268796532097876
+'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2266634050746538
 'Solar',de,Energie,#32ea18,#29c014,3,0.2264503255115035
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2261237368762069
 'Gas',de,Energie,#29c014,#29c014,3,0.2219323118944436
