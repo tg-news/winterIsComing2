@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.2609372213859581
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.2403754499739792
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2351104291138149
 'Gas',de,Energie,#29c014,#29c014,3,0.2297683624978569
+'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.2268302181780644
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.2204286585569053
 'Solar',de,Energie,#32ea18,#29c014,3,0.2201634094120506
 'Angst',de,Angst,#ca8307,#f59e09,3,0.2126848725941134
@@ -16,6 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1355537766611938
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1324069364856145
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1047159905556551
-'Gefährdung',de,Angst,#754c04,#f59e09,3,0.09759013369979164
+'Gefährdung',de,Angst,#754c04,#f59e09,3,0.0975901336997916
 'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.0152784589272884
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,9.05338451599303e-10
