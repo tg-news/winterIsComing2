@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windkraft',de,Energie,#20950f,#29c014,3,0.1947043654351218
 'Gas',de,Energie,#29c014,#29c014,3,0.1924837854102288
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.1824493445235837
-'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1752171214096225
+'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1584648677436337
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1578067833347174
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1548481070363473
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1237614441486254
