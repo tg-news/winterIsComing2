@@ -4,14 +4,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.1939669098390036
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.1934426796459236
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.1928895021286645
-'Gas',de,Energie,#29c014,#29c014,3,0.1901623808528872
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1825717505584116
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.1824493445235837
 'Solar',de,Energie,#32ea18,#29c014,3,0.1815487024134977
 'Angst',de,Angst,#ca8307,#f59e09,3,0.1801897041134564
-'Windkraft',de,Energie,#20950f,#29c014,3,0.17724401641716234
+'Windkraft',de,Energie,#20950f,#29c014,3,0.1772440164171623
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.173263942874544
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.168436172799077
+'Gas',de,Energie,#29c014,#29c014,3,0.16660780872495412
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1618172385617825
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1331592418878689
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1146978420717861
