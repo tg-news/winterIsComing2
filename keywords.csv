@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windkraft',de,Energie,#20950f,#29c014,3,0.1772440164171623
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.173263942874544
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.168436172799077
-'Gas',de,Energie,#29c014,#29c014,3,0.16660780872495412
-'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1618172385617825
+'Gas',de,Energie,#29c014,#29c014,3,0.1666078087249541
+'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.16522636550478786
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1331592418878689
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1146978420717861
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1109749333047858
