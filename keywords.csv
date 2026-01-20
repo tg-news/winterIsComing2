@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.1890022861400935
 'Windkraft',de,Energie,#20950f,#29c014,3,0.1860051365952807
 'Angst',de,Angst,#ca8307,#f59e09,3,0.1852187445556714
+'Solar',de,Energie,#32ea18,#29c014,3,0.184839441033296
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.1813835177038568
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.1796485991196943
 'Gas',de,Energie,#29c014,#29c014,3,0.1628209563736606
-'Solar',de,Energie,#32ea18,#29c014,3,0.16217543650976
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1536940230469708
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1305767767866262
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1205584522557331
