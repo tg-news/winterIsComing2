@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2277243187937041
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2049015686067765
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2045986555028237
-'Risiko',de,Angst,#aa6d00,#9f6805,3,0.20069709478402786
-'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.1976778889055968
+'Risiko',de,Angst,#aa6d00,#9f6805,3,0.2006970947840278
+'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.20025695784248454
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.1404883296121527
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.12198733931855
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1163695331033362
