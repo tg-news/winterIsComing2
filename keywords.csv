@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windkraft',de,Energie,#20950f,#29c014,3,0.2486806053325974
 'Inflation',de,Wohlstand,#cc0018,#cc0018,3,0.2455385800661044
 'Solar',de,Energie,#32ea18,#29c014,3,0.2454481682715253
+'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.22927582677819755
 'Angst',de,Angst,#ca8307,#f59e09,3,0.2219585219985717
-'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2144494432684677
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2108021994376819
 'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1801402901118781
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1287077142715738
