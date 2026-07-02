@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angst',de,Angst,#ca8307,#f59e09,3,0.2325654200985135
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2292758267781975
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.2068662372493023
-'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1801402901118781
+'Risiko',de,Angst,#aa6d00,#9f6805,3,0.17175952023146002
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1325471603126559
 'Energie sparen',de,Energie,#176a0b,#29c014,3,0.1095094703742182
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1082060185260298
 'Hohe Kosten',de,Wohlstand,#76000e,#cc0018,3,0.0935444944817135
-'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.044004910728056026
+'Existenzängste',de,Angst,#f59e09,#f59e09,1,0.044004910728056
 'Wohlstandsgefährdung',de,Wohlstand,#a00013,#cc0018,1,1.3066295331394352e-06
