@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.3758354190139454
+'Ukraine',de,Krieg,#8c8c8c,#8d8d8d,3,0.40642658067798265
 'Russland',de,Krieg,#b7b7b7,#8d8d8d,3,0.2983138658000307
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.2791685099200706
 'Krieg',de,Krieg,#616161,#8d8d8d,3,0.2742111319320153
 'Windkraft',de,Energie,#20950f,#29c014,3,0.2568303056634056
-'Solar',de,Energie,#32ea18,#29c014,3,0.25468991296254057
+'Solar',de,Energie,#32ea18,#29c014,3,0.2546899129625405
 'Gas',de,Energie,#29c014,#29c014,3,0.2519773498955952
 'Kämpfe',de,Krieg,#363636,#8d8d8d,3,0.2434292285994204
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2424230637729347
