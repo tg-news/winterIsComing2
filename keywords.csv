@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Krieg,#8d8d8d,#8d8d8d,3,0.2478129622330724
 'Bedrohung',de,Angst,#ffa400,#f59e09,3,0.2424230637729347
 'Energiekosten',de,Energie,#0e3f07,#29c014,3,0.2093887427614678
+'Risiko',de,Angst,#aa6d00,#9f6805,3,0.20902177279904802
 'Angst',de,Angst,#ca8307,#f59e09,3,0.2026725620837364
-'Risiko',de,Angst,#aa6d00,#9f6805,3,0.1919002081058319
 'Armut',de,Wohlstand,#f6001d,#cc0018,3,0.1853297866619069
 'Gefährdung',de,Angst,#754c04,#f59e09,3,0.1255258893168747
 'Geld sparen',de,Wohlstand,#f5001d,#cc0018,3,0.1189965864815552
